@@ -1,4 +1,4 @@
-# casualtux-hawaiian
+# Casual Tux Hawaiian
 
 Casual Tux with a real Hawaiian print
 
