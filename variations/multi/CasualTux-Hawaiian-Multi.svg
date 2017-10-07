@@ -14,7 +14,7 @@
    viewBox="0 0 1000 1000"
    id="svg4655"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="CasualTux-Hawaiian.svg"
+   sodipodi:docname="CasualTux-Hawaiian-Multi.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Casual Tux Hawaiian</dc:title>
+        <dc:title>Casual Tux Hawaiian Multi</dc:title>
         <dc:date>April  10, 2017</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -36,7 +36,7 @@
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>Casual Tux Hawaiian</rdf:li>
+            <rdf:li>Casual Tux Hawaiian Multi</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <dc:rights>
@@ -53,7 +53,7 @@
 https://commons.wikimedia.org/wiki/File:Tux.svg
 
 All other work done by Troy Dawson.
-Casual Tux Hawaiian is released under the same license as the original Tux.
+Casual Tux Hawaiian Multi is released under the same license as the original Tux.
 &quot;The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.&quot;</dc:description>
       </cc:Work>
       <cc:License
@@ -3804,7 +3804,7 @@ Casual Tux Hawaiian is released under the same license as the original Tux.
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="false" />
   <title
-     id="title4657">Casual Tux Hawaiian</title>
+     id="title4657">Casual Tux Hawaiian Multi</title>
   <desc
      id="desc4659">For more information see: http://commons.wikimedia.org/wiki/Image:Tux.svg</desc>
   <radialGradient
