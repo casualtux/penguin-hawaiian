@@ -521,7 +521,7 @@ Casual Tux Hawaiian Purple is released under the same license as the original Tu
        clipPathUnits="userSpaceOnUse"
        id="clipPath56306">
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 708.78058,318.67761 c 9.99712,-4.05931 18.13455,-11.66894 33.6338,-5.22418 -3.57918,-8.86673 -14.99392,-25.50493 -18.7311,-30.07126 -7.33726,-12.02666 -6.75491,-9.05395 -20.97343,-27.9618 -27.89925,1.27077 -25.20659,20.40454 -19.41594,29.52728 7.62515,4.88802 23.50253,13.47035 25.48667,33.72996 z"
          id="path56308"
          inkscape:connector-curvature="0"
@@ -1048,7 +1048,7 @@ Casual Tux Hawaiian Purple is released under the same license as the original Tu
        clipPathUnits="userSpaceOnUse"
        id="clipPath64113">
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 568.31163,172.85116 c -10.55013,-2.26165 -9.31831,-6.26472 -23.46297,2.77355 1.48275,-10.8878 3.30034,-21.61184 7.65689,-34.20361 2.39908,-8.9259 6.29827,-20.27298 14.74133,-31.91978 27.69606,-3.5932 20.55079,17.87319 15.5919,25.38669 -4.9793,7.65828 -12.07065,18.11703 -14.52715,37.96315 z"
          id="path64115"
          inkscape:connector-curvature="0"
@@ -2301,7 +2301,7 @@ Casual Tux Hawaiian Purple is released under the same license as the original Tu
        clipPathUnits="userSpaceOnUse"
        id="clipPath10862">
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 664.77139,-106.40147 1.7274,141.211801 c -19.02889,-8.62081 -30.82015,-9.16551 -39.16624,-10.83852 3.04809,-15.2501399 -4.1427,-13.70156 -24.12169,-33.28914 -6.35639,-4.85254 -16.10618,-13.68961 -21.74289,-17.15976 -0.75961,-11.441204 -0.36407,-23.229434 3.76141,-40.452164 5.89603,-15.61276 6.70271,-14.97527 16.37965,-33.537817 8.04221,-26.75615 -13.63161,-16.81302 -8.92699,-22.85626 2.50151,-4.59208 2.21197,-3.18663 13.63855,-19.16966 z"
          id="path10864"
          inkscape:connector-curvature="0"
@@ -3774,7 +3774,7 @@ Casual Tux Hawaiian Purple is released under the same license as the original Tu
        clipPathUnits="userSpaceOnUse"
        id="clipPath14655">
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 507.98576,170.79008 -1.7274,141.21181 c 50.2539,-28.13644 90.29636,-17.34349 107.0063,-18.64477 l -32.43241,-13.50146 5.09697,-27.05753 c 3.01086,-6.71117 7.5295,-9.57944 13.53794,-10.63337 6.3355,-11.25534 8.8916,-21.11559 5.69543,-38.33832 -2.44941,-19.13399 -13.03483,-25.86608 -25.85111,-34.06097 -12.52938,-25.68778 10.07684,-29.5267 19.00858,-30.4563 -2.50151,-4.59208 -2.5082,-1.75889 -6.8835,-20.5197 z"
          id="path14657"
          inkscape:connector-curvature="0"
@@ -3879,25 +3879,25 @@ Casual Tux Hawaiian Purple is released under the same license as the original Tu
        inkscape:connector-curvature="0"
        id="path9588-3-1"
        d="m 368.05478,353.78379 1.65121,26.54281 39.73262,-11.491 -5.78778,-17.81352 z"
-       style="fill:#c00068;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#c00068;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path9588-3"
        d="m 726.34415,317.83282 -1.65121,26.54281 -39.73262,-11.491 5.78778,-17.81352 z"
-       style="fill:#c00068;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#c00068;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path9588"
        d="m 849.4589,524.01129 c -43.78212,6.33373 -89.26287,14.77738 -86.57785,11.9973 l 65.527,-47.3403 c 8.08574,10.7336 14.22263,23.37706 21.05085,35.343 z"
-       style="fill:#191919;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#191919;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path9588-42"
        d="m 258.55899,555.31237 c 43.7821,6.33374 89.26284,14.77739 86.57783,11.99731 l -65.52698,-47.3403 c -8.08576,10.7336 -14.22265,23.37706 -21.05085,35.34299 z"
-       style="fill:#191919;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#191919;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="stroke-width:2.5661118"
        d="m 854.02451,636.45982 c -12.31796,49.74967 -74.84093,153.63868 -108.0621,199.36448 -33.21856,45.90871 -29.11258,87.24483 -90.51833,71.14935 -61.21652,-16.09548 -78.38701,-13.16903 -141.65393,-9.51097 -62.89883,3.65552 -49.27442,-1.83157 -88.65197,15.54677 -39.19351,17.37581 -170.7717,-210.70448 -181.40994,-253.13548 -10.44901,-42.43609 -15.49076,-37.3148 11.75805,-83.2235 27.25141,-45.90616 31.16817,-91.2687 67.18887,-146.87127 36.02069,-55.78547 77.64046,-84.13547 74.65429,-126.75191 C 385.57399,144.81602 376.23961,65.801837 447.91033,29.221197 516.21901,-5.5304102 573.32954,15.137651 595.91247,27.026359 c 9.70506,5.12129 29.48844,14.998062 44.23267,32.373866 14.74422,17.009998 27.99536,42.799345 35.46079,75.356115 15.30413,65.29644 -6.34562,43.71387 11.01151,118.52128 17.17048,74.62196 52.07137,111.2026 94.62431,170.28033 42.54777,59.08028 86.96707,156.56768 72.78276,212.90187 z"
@@ -6414,7 +6414,7 @@ Casual Tux Hawaiian Purple is released under the same license as the original Tu
        inkscape:connector-curvature="0"
        id="path7950"
        d="m 509.68479,453.30769 -4.4777,358.7235 c 130.2663,-71.47563 234.06288,-44.05806 277.37777,-47.36373 l -84.0701,-34.29805 13.21218,-68.73485 c 7.80464,-17.04853 19.51769,-24.33486 35.09255,-27.01218 16.42265,-28.59219 23.04847,-53.64041 14.76348,-97.39169 -6.34927,-48.6065 -33.7884,-65.70818 -67.01029,-86.52584 -32.4782,-65.25524 26.12081,-75.00733 49.27334,-77.36881 -6.48432,-11.66537 -6.50167,-4.46815 -17.84316,-52.12665 z"
-       style="fill:#e0218a;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#e0218a;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="matrix(2.592163,0,0,2.5403222,64.110009,10.00239)"
        id="g6091">
@@ -8619,31 +8619,31 @@ Casual Tux Hawaiian Purple is released under the same license as the original Tu
        inkscape:connector-curvature="0"
        id="path9588-4"
        d="M 595.43732,427.28557 511.45682,452.00994 676.2029,351.72503 Z"
-       style="fill:#c00068;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#c00068;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccccccccc"
        inkscape:connector-curvature="0"
        id="path7950-1"
        d="m 525.27616,451.77085 4.4777,358.72349 c -49.32599,-21.89963 -79.89085,-23.28335 -101.52528,-27.53333 7.90115,-38.74027 -10.73855,-34.80638 -62.52735,-84.56514 -16.4768,-12.32702 -41.74985,-34.77602 -56.36112,-43.59132 -1.96903,-29.06433 -0.94373,-59.01026 9.75019,-102.76155 15.28347,-39.66144 17.37452,-38.04201 42.45872,-85.19686 20.84672,-67.96925 -35.33535,-42.71049 -23.14021,-58.06227 6.48432,-11.66536 5.73379,-8.09507 35.35334,-48.69711 z"
-       style="fill:#e0218a;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#e0218a;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path9588-9"
        d="m 639.07294,426.77649 c -2.89259,-7.87949 -6.72482,-15.75896 -18.0076,-23.63846 l 55.13756,-52.43113 50.61836,-32.98738 c 7.40472,8.65582 10.38454,17.31163 12.29756,25.96745 z"
-       style="fill:#d1107a;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#d1107a;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path9588-4-1"
        d="m 458.01258,432.324 66.83294,20.08472 -131.10738,-81.466 z"
-       style="fill:#c00068;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#c00068;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path9588-9-7"
        d="m 432.51812,439.5771 c 2.14315,-6.19062 4.98245,-12.38118 13.34181,-18.57176 l -40.8513,-41.19295 -37.50302,-25.91683 c -5.48614,6.80049 -7.69385,13.60104 -9.11122,20.40158 z"
-       style="fill:#d1107a;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#d1107a;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="matrix(2.592163,0,0,2.5403222,-1197.5927,722.79876)"
        clip-path="url(#clipPath10862)"
@@ -9327,13 +9327,13 @@ Casual Tux Hawaiian Purple is released under the same license as the original Tu
        inkscape:connector-curvature="0"
        id="path7952-7"
        d="m 319.4917,557.77517 c -25.91417,-10.31196 -20.96772,-19.78317 -61.14431,-3.4114 8.686,-26.58425 18.15308,-52.61112 34.94226,-82.19053 10.14209,-21.27189 25.20347,-47.93921 51.99928,-73.35193 72.3194,3.22817 44.41653,53.77931 28.37555,70.38857 -16.15825,16.96247 -38.96866,39.99925 -54.17278,88.56529 z"
-       style="fill:#e0218a;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#e0218a;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path7952"
        d="m 760.69648,535.21545 c 25.91416,-10.31195 47.00771,-29.64286 87.18429,-13.2711 -9.27782,-22.52435 -38.86669,-64.79074 -48.55407,-76.39069 -19.01937,-30.55159 -17.50982,-22.99995 -54.36654,-71.03198 -72.31941,3.22817 -65.33959,51.83411 -50.32929,75.00881 19.76564,12.41714 60.92239,34.21903 66.06561,85.68496 z"
-       style="fill:#e0218a;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#e0218a;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="matrix(2.5662414,0,0,2.514919,-1058.9656,-266.6373)"
        clip-path="url(#clipPath56306)"
